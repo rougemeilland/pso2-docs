@@ -1,5 +1,11 @@
 # ゆりかごTで半固定PTを実現する方法の例
 
+<style>
+img {
+    border: 1px red solid;
+}
+</style>
+
 ## 0. 目次
 
 ## 1. 概要
@@ -35,6 +41,10 @@
 この辺の仕様を既にご存じの方は読み飛ばしてください。
 
 とりあえず、トリガーを貼るPT (主催PT) と、主催が参加させたいPT (身内PT) がいくつかあり、それ以外の部外者のPTはシャットアウトしたい、という状況を考えます。
+
+<p align="center">
+  <img width="512" style="border: solid 1px black; margin: 1em;" height="auto" src="./img/優先して参加させたいメンバーのPT.png" title="優先して参加させたいメンバーのPT" alt="主催PTと身内PT1、身内PT2を優先して参加させたいとします"/>
+</p>
 
 固定PTを組むためには、主催PTのパーティー設定画面で参加パスワードを設定します。
 
