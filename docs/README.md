@@ -4,6 +4,7 @@ PSO2 に関する様々なドキュメントを公開しています。
 
 - 闇のゆりかご関連
     -  [「闇のゆりかごトリガー (ゆりかごT)」の進行の方法 (主催者向け)](cradle-of-darkness/how-to-host.md)
+    -  [ゆりかごTの基本的な動き方 (参加者向け)](cradle-of-darkness/how-to-play.md)
 
 ## 【注意事項】
 
